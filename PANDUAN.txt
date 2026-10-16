@@ -1,0 +1,15 @@
+SOURY CHOCOLOVES — WEBSITE MODERN
+
+Isi folder:
+- index.html
+- assets/strawberry-chocolate.jpeg
+- assets/lemon-drink.jpeg
+
+Cara publikasi gratis:
+1. Ekstrak ZIP.
+2. Buka https://app.netlify.com/drop
+3. Login/daftar jika diminta.
+4. Seret folder hasil ekstrak (berisi index.html dan assets) ke Netlify Drop.
+5. Setelah deploy selesai, salin URL publik yang diberikan dan bagikan kepada pelanggan.
+
+Website ini belum otomatis online; publikasi perlu dilakukan di akun hosting Anda.
